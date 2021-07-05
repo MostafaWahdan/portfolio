@@ -1,189 +1,195 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+      title: "Technical Recruiting",
+      img: "https://i.ibb.co/ckRrdqL/tech-rec.png",
+      link: "https://drive.google.com/file/d/1S1NcfETeQ_-8uS0qt8jCkBFYtxrsaofb/view?usp=sharing"
     },
     {
       id: 2,
-      title: "Rampa UI Design",
-      img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+      title: "Critical Thinking",
+      img: "https://i.ibb.co/Nj77xGR/critical-thinking.png",
+      link: "https://drive.google.com/file/d/11gsfIRv3n08E_2jfXon5gPVab_6Geu8L/view?usp=sharing"
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
-      img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      title: "Employer Branding",
+      img: "https://i.ibb.co/Dwy9KQv/employer-branding.png",
+      link: "https://drive.google.com/file/d/1B2KngYAkTDAMDaG5eDnE6Qu4261Dui1s/view?usp=sharing"
     },
     {
       id: 4,
-      title: "Relax Mobile App",
-      img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+      title: "Advanced Data Analysis",
+      img: "https://i.ibb.co/56y4LRH/data-analysis.png",
+      link: "https://confirm.udacity.com/AT5AZLQ9"
     },
     {
       id: 5,
-      title: "Hero Web Design",
-      img:
-        "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Functional Programming",
+      img: "https://i.ibb.co/xzWzLCt/core-python.png",
+      link: "https://drive.google.com/open?id=1FJPMG2NCXcLFzk6WC85YtJOSsEsUHWVh"
     },
     {
       id: 6,
-      title: "Banking App",
-      img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
-    },
+      title: "Web Crawling",
+      img: "https://i.ibb.co/fHRqvtj/web-crawling.png",
+      link: "https://drive.google.com/open?id=15ibstoq3TdK3YHbFE0ThfrbBPlC2IiBP"
+    },    
   ];
   
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Studying SICP",
+      img: "https://i.ibb.co/qMcsXJk/laptop-with-code.jpg",
+      link: "https://www.linkedin.com/pulse/studying-structure-interpretation-computer-programs-sicp-ehab-wahdan/"
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
-      img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
+      title: "Data Visualization",
+      img: "https://i.ibb.co/HVCgGmJ/data-viz.jpg",
+      link: "https://www.linkedin.com/pulse/data-visualization-picking-meaningful-mostafa-ehab-wahdan"
     },
     {
       id: 3,
-      title: "Web E-commerce Design",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+      title: "Time Management",
+      img: "https://i.ibb.co/W2kC4K3/time-management.jpg",
+      link: "https://www.linkedin.com/pulse/feeling-you-have-lot-going-your-life-heres-what-do-mostafa-ehab"
     },
     {
       id: 4,
-      title: "Web Relax App",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
+      title: "Leadership (Part 1)",
+      img: "https://i.ibb.co/X4b0JR8/lead-1.jpg",
+      link: "https://www.linkedin.com/pulse/leadership-mostafa-ehab/",
     },
     {
       id: 5,
-      title: "Web Design",
-      img: "https://cdn.dribbble.com/users/387658/screenshots/15458608/media/e92ec1dd33dd1170ae3dc9c5272f2693.jpg?compress=1&resize=1200x900",
+      title: "Leadership (Part 2)",
+      img: "https://i.ibb.co/xS554X1/lead-2.jpg",
+      link: "https://www.linkedin.com/pulse/leadership-part-2-mostafa-ehab/"
     },
-    {
-      id: 6,
-      title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
-    },
+    // {
+    //   id: 6,
+    //   title: "Web Banking App",
+    //   img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+    // },
   ];
   
   export const mobilePortfolio = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Sourcing",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+        "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?cs=srgb&dl=pexels-sora-shimazaki-5668858.jpg&fm=jpg",
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "Interviewing",
       img:
-        "https://cdn.dribbble.com/users/5920881/screenshots/15463142/media/b5a460223798bd85d835710806e2f3dd.png?compress=1&resize=1200x900",
+        "https://images.pexels.com/photos/4342126/pexels-photo-4342126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     },
     {
       id: 3,
-      title: "Mobile E-commerce Design",
+      title: "Team Work",
       img:
-        "https://cdn.dribbble.com/users/1998175/screenshots/15459384/media/48ac2b43ebe81ba0866afea1383cc939.png?compress=1&resize=1200x900",
+        "https://images.pexels.com/photos/7551454/pexels-photo-7551454.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     },
     {
       id: 4,
-      title: "Mobile Relax App",
+      title: "Git Version Control",
       img:
-        "https://cdn.dribbble.com/users/2083704/screenshots/15468619/media/cd958306c7a772449e1ac23bd65ce506.png?compress=1&resize=1200x900",
+        "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     },
     {
       id: 5,
-      title: "Mobile Hero Design",
-      img:
-        "https://cdn.dribbble.com/users/26642/screenshots/15462545/media/1a202ef5c8338b6f78634e6edc1ba350.png?compress=1&resize=1200x900",
+      title: "MS Power Automate",
+      img: "https://images.pexels.com/photos/3785932/pexels-photo-3785932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        // "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     },
     {
       id: 6,
-      title: "Mobile Banking App",
-      img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      title: "MS Power BI",
+      img: 
+        "https://image.freepik.com/free-vector/polygonal-wireframe-business-strategy-composition-with-editable-text-images-columns-arrow-shining-particles_1284-32260.jpg"
+        // "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     },
   ];
   
-  export const designPortfolio = [
-    {
-      id: 1,
-      title: "Design Social Media App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 2,
-      title: "Design Rampa UI Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 3,
-      title: "Design E-commerce Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 4,
-      title: "Design Relax Mobile App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "Design Keser Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Design Banking App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-  ];
+  // export const designPortfolio = [
+  //   {
+  //     id: 1,
+  //     title: "Design Social Media App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 2,
+  //     title: "Design Rampa UI Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 3,
+  //     title: "Design E-commerce Web Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 4,
+  //     title: "Design Relax Mobile App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 5,
+  //     title: "Design Keser Web Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 6,
+  //     title: "Design Banking App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  // ];
   
-  export const contentPortfolio = [
-    {
-      id: 1,
-      title: "Content Social Media App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 2,
-      title: "Content Rampa UI Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 3,
-      title: "Content E-commerce Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 4,
-      title: "Content Relax Mobile App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 5,
-      title: "Content Keser Web Design",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-    {
-      id: 6,
-      title: "Content Banking App",
-      img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
-    },
-  ];
+  // export const contentPortfolio = [
+  //   {
+  //     id: 1,
+  //     title: "Content Social Media App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 2,
+  //     title: "Content Rampa UI Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 3,
+  //     title: "Content E-commerce Web Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 4,
+  //     title: "Content Relax Mobile App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 5,
+  //     title: "Content Keser Web Design",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  //   {
+  //     id: 6,
+  //     title: "Content Banking App",
+  //     img:
+  //       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+  //   },
+  // ];
   

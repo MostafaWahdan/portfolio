@@ -1,15 +1,16 @@
 @import "../../global.scss";
 
 .portfolio {
-  background-color: white;
+  background-color: crimson;
   display: flex;
   flex-direction: column;
   align-items: center;
 
   h1 {
+    margin-top: 20px;
     font-size: 50px;
 
-    @include mobile{
+    @include mobile {
       font-size: 20px;
     }
   }
@@ -20,7 +21,7 @@
     list-style: none;
     display: flex;
 
-    @include mobile{
+    @include mobile {
       margin: 10px 0;
       flex-wrap: wrap;
       justify-content: center;
@@ -34,13 +35,13 @@
     justify-content: center;
     flex-wrap: wrap;
 
-    @include mobile{
+    @include mobile {
       width: 100%;
     }
 
     .item {
-      width: 220px;
-      height: 150px;
+      width: 308px;
+      height: 210px;
       border-radius: 20px;
       border: 1px solid rgb(240, 239, 239);
       margin: 10px 20px;
@@ -49,17 +50,20 @@
       justify-content: center;
       color: white;
       position: relative;
-      transition: all .5s ease;
+      transition: all 0.5s ease;
       cursor: pointer;
 
-      @include mobile{
+      @include mobile {
         width: 130px;
         height: 100px;
       }
 
-      h3 {
+      a {
         position: absolute;
         font-size: 20px;
+        text-decoration: none;
+        color: white;
+        font-weight: 700;
       }
 
       img {
