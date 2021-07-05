@@ -12,6 +12,8 @@
 
     @include mobile {
       font-size: 20px;
+      padding: 2px;
+      overflow: hidden;
     }
   }
 
@@ -25,6 +27,8 @@
       margin: 10px 0;
       flex-wrap: wrap;
       justify-content: center;
+      padding: 5px;
+      overflow: hidden;
     }
   }
 

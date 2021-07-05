@@ -48,8 +48,8 @@
         }
 
         a {
-          color: $mainColor;
           text-decoration: none;
+          color: inherit;
         }
       }
     }
