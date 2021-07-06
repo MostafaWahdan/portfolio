@@ -15,7 +15,8 @@ export default function Contact() {
       </div>
       <div className="right">
         <h2>Contact</h2>
-        <form action="https://formsubmit.co/mostafa@datatalks.me" method="POST" onSubmit={handleSubmit}>
+        <form action="https://formsubmit.co/mostafa.ehab.wahdan@gmail.com" method="POST">
+        {/* onSubmit={handleSubmit} */}
           <input type="hidden" name="_subject" value="Portfolio New submission!" />
           <input type="text" placeholder="Email" name="email" required />
           <textarea placeholder="Message" name="message" required></textarea>
